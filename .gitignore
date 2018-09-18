@@ -2,7 +2,7 @@ led / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
-
+*.np[zy]
 # C extensions
 *.so
 
